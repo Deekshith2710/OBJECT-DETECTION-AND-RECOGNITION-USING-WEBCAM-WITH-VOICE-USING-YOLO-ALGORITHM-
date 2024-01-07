@@ -7,10 +7,7 @@ This project utilizes Python and OpenCV for object detection in images and real-
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Detecting Objects in Images](#detecting-objects-in-images)
-  - [Detecting Objects in Real-Time Video](#detecting-objects-in-real-time-video)
-- [Contributing](#contributing)
+
 
 ## Getting Started
 
